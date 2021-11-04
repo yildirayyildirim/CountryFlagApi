@@ -1,5 +1,11 @@
 [
   {
+    "name": "Turkey",
+    "code": "TR",
+    "phone_code": "+90",
+    "flag": "https://raw.githubusercontent.com/yildirayyildirim/CountryFlagApi/main/images/tr.png"
+  },
+  {
     "name": "Afghanistan",
     "code": "AF",
     "phone_code": "+93",
@@ -1264,12 +1270,6 @@
     "code": "TN",
     "phone_code": "+216",
     "flag": "https://raw.githubusercontent.com/yildirayyildirim/CountryFlagApi/main/images/tn.png"
-  },
-  {
-    "name": "Turkey",
-    "code": "TR",
-    "phone_code": "+90",
-    "flag": "https://raw.githubusercontent.com/yildirayyildirim/CountryFlagApi/main/images/tr.png"
   },
   {
     "name": "Turkmenistan",
